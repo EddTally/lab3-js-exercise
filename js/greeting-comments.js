@@ -42,6 +42,6 @@
     in the grey area outside the input "submit" button. Why?
   */
   
-  // getName.addEventListener("click", PerformGreeting);
+  getName.addEventListener("click", PerformGreeting);
 
 }());
